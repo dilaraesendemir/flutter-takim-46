@@ -98,7 +98,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro'da gözüken mav
 
 - **Daily Scrum:** Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Notion linki olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://www.notion.so/F-46-Daily-Scrum-47ab7eb048864d10ac59e19a60aba947?pvs=4)
  
-- **Sprint board update:** Sprint board screenshotları: <img width="966" alt="image" src="https://github.com/user-attachments/assets/8ff15959-079b-4d7f-a77c-fb896b2367b3">
+- **Sprint board update:** Sprint board screenshotları: <img width="1000" alt="image" src="https://github.com/user-attachments/assets/d6384508-5deb-4fb1-8829-3a8ee5b35feb">
+
 
 - **Ürün Durumu:** Ekran görüntüleri:
  
