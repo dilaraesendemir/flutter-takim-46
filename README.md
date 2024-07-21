@@ -105,7 +105,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro'da gözüken mav
   <img width="694" alt="SCR-20240721-dlsw" src="https://github.com/user-attachments/assets/e7741ec6-ad49-4383-bf9c-e5f5f71e1735">
   <img width="707" alt="SCR-20240721-dlvb" src="https://github.com/user-attachments/assets/a09159ec-d98b-496e-8665-3b387cbc0166"> 
 
-- **Sprint Review:** Alınan kararlar: Ürün teslimine az bir süre kaldığı için organize bir şekilde bireysel iş bölümü yapılacak. Bazı aksaklıklar yaşandı, bir takım arkadşıyla ortak karar sonucu vedalaşıldı. Kalan süreci iyi yönetmek adına planlama konusunda dikkatli olma kararı alındı. Sprint Review katılımcıları: Beyza Sena Erkoç, Berkay Güngör, Dilara Esendemir.
+- **Sprint Review:** Alınan kararlar: Ürün teslimine az bir süre kaldığı için organize bir şekilde bireysel iş bölümü yapılacak. Bazı aksaklıklar yaşandı, bir takım arkadaşıyla takımın ortak kararı sonucu vedalaşıldı. Kalan süreci iyi yönetmek adına planlama konusunda dikkatli olma kararı alındı. Sprint Review katılımcıları: Beyza Sena Erkoç, Berkay Güngör, Dilara Esendemir.
   
 - **Sprint Retrospective:**
   - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
