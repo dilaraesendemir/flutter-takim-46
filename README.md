@@ -3,8 +3,7 @@ Takım Flutter 46
 # Ürün İle İlgili Bilgiler
 # Takım Elemanları
 - Dilara Esendemir: Scrum Master / Product Owner / Developer
-- Arjen Tüysüz: Developer
-- Berkay Tüysüz: Aktif üye
+- Berkay Tüysüz: Aktif üye 
 - Beyza Sena Erkoç: Developer
 # Ürün İsmi
 --SeeEat--
@@ -101,15 +100,17 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro'da gözüken mav
  
 - **Sprint board update:** Sprint board screenshotları: <img width="966" alt="image" src="https://github.com/user-attachments/assets/8ff15959-079b-4d7f-a77c-fb896b2367b3">
 
-
 - **Ürün Durumu:** Ekran görüntüleri:
  
   <img width="694" alt="SCR-20240721-dlsw" src="https://github.com/user-attachments/assets/e7741ec6-ad49-4383-bf9c-e5f5f71e1735">
   <img width="707" alt="SCR-20240721-dlvb" src="https://github.com/user-attachments/assets/a09159ec-d98b-496e-8665-3b387cbc0166"> 
 
-- **Sprint Review:**
+- **Sprint Review:** Alınan kararlar: Ürün teslimine az bir süre kaldığı için organize bir şekilde bireysel iş bölümü yapılacak. Bazı aksaklıklar yaşandı, bir takım arkadşıyla ortak karar sonucu vedalaşıldı. Kalan süreci iyi yönetmek adına planlama konusunda dikkatli olma kararı alındı. Sprint Review katılımcıları: Beyza Sena Erkoç, Berkay Güngör, Dilara Esendemir.
   
 - **Sprint Retrospective:**
+  - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+  - Roller ile ilgili düzenleme yapılmış, developerlar değişmiştir.
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   
     
 
