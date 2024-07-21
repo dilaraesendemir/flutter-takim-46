@@ -95,14 +95,15 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro'da gözüken kı
 - **Backlog düzeni ve Story seçimleri:** Backlog'umuz 1. Sprint sonrası yapılması gereken story'lere göre düzenlenmiştir.
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro'da gözüken mavi item'lar story'leri temsil etmektedir ve işler (task) görevler başlığı altında story'lerin hemen altında görevler başlığı ile tutulmuştur.
 
-- **Daily Scrum:** Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Notion linki olarak Readme'de tarafımızdan paylaşılmaktadır: **!!!!!!!!**
+- **Daily Scrum:** Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Notion linki olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://www.notion.so/F-46-Daily-Scrum-47ab7eb048864d10ac59e19a60aba947?pvs=4)
  
 - **Sprint board update:** Sprint board screenshotları:
 
-Backlog 2 
-ss
 - **Ürün Durumu:** Ekran görüntüleri:
-  
+ 
+  <img width="694" alt="SCR-20240721-dlsw" src="https://github.com/user-attachments/assets/e7741ec6-ad49-4383-bf9c-e5f5f71e1735">
+  <img width="707" alt="SCR-20240721-dlvb" src="https://github.com/user-attachments/assets/a09159ec-d98b-496e-8665-3b387cbc0166"> 
+
 - **Sprint Review:**
   
 - **Sprint Retrospective:**
