@@ -56,9 +56,11 @@ Sağlıklı yaşam ve beslenme hedeflerinizi hatırlatan motivasyon bildirimleri
 - **Yoğun İş Hayatına Sahip Olanlar:** Zaman kısıtlamaları nedeniyle hızlı ve etkili bir şekilde beslenme takibi yapmak isteyen çalışan profesyoneller.
  # Product Backlog URL
   
-  [Flutter Team 46 Miro Backlog Board 1.Sprint](https://miro.com/welcomeonboard/MUlQdFBzdUliZ3VsOXFHQzlKNzVzZVJlMkwzVU1SSlNCTlZQR2s0cFR5SThBTG1ZWGRaUURSNTh1RkphOHhoNnwzNDU4NzY0NTk0MDcyNDk2OTI1fDI=?share_link_id=856594209566)
+  [Flutter Team 46 Miro Backlog Board](https://miro.com/welcomeonboard/MUlQdFBzdUliZ3VsOXFHQzlKNzVzZVJlMkwzVU1SSlNCTlZQR2s0cFR5SThBTG1ZWGRaUURSNTh1RkphOHhoNnwzNDU4NzY0NTk0MDcyNDk2OTI1fDI=?share_link_id=856594209566)
   
  # Jüriye not:
+ - Github da yaşanılan bazı olumsuz durumlar sonrası yeni repoya geçildi.
+   
 ---
 # Sprint 1
 - **Sprint Notları**: Kullanıcı arayüzü için daha uygun olacak şekilde renkler güncellenmiştir.
@@ -97,7 +99,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro'da gözüken mav
 
 - **Daily Scrum:** Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Notion linki olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://www.notion.so/F-46-Daily-Scrum-47ab7eb048864d10ac59e19a60aba947?pvs=4)
  
-- **Sprint board update:** Sprint board screenshotları:
+- **Sprint board update:** Sprint board screenshotları: <img width="966" alt="image" src="https://github.com/user-attachments/assets/8ff15959-079b-4d7f-a77c-fb896b2367b3">
+
 
 - **Ürün Durumu:** Ekran görüntüleri:
  
