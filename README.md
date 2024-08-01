@@ -127,8 +127,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro da gözüken mav
 - **Daily Scrum:** Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Notion linki olarak Readme'de tarafımızdan paylaşılmaktadır:
 
 - **Sprint board update:** Sprint board screenshotları:
+ 
 - **Ürün Durumu:** Ekran görüntüleri:
   <img width="920" alt="SCR-20240801-rbdw" src="https://github.com/user-attachments/assets/41b30dc2-7a75-4e1b-8547-bb8324042f69"><img width="694" alt="SCR-20240801-rbfw" src="https://github.com/user-attachments/assets/bb175ff7-8915-49a1-9877-3e7402cc33d2">
+  
+- **Sprint Review:** Alınan kararlar: Kullanıcı temel sayfaların arayüzleri yapılmış, takım üyelerinin kişisel hayatında yaşanan bazı olumsuz sorunlar sonrasında firebase servislerine bağlantılar yapılamamış, backend'te yaşanan sorunlar ve eksikler sonucunda yapay zeka entegre edilememiş ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. Süreç aksamalara uğrasada ürün çıkarma hedefimize ulaştık. Süreci elimizdeki imkanlar doğrultusunda iyi yürüttüğümüz fikrindeyiz.. Sprint Review katılımcıları: Dilara Esendemir, Berkay Güngör, Beyza Sena Erkoç.
 
 
 
