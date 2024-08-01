@@ -112,7 +112,26 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro'da gözüken mav
   - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
   - Roller ile ilgili düzenleme yapılmış, developerlar değişmiştir.
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
-  
+---
+# Sprint 3
+- **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Trello da kartı aç'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan:** 120 Puan
+
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in 120 puan ile değerlendirilmesine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri:** Backlog'umuz 2. Sprint sonrası yapılması gereken story'lere göre düzenlenmiştir.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro da gözüken mavi item'lar story'leri temsil etmektedir ve işler (task) görevler başlığı altında story'lerin hemen altında görevler başlığı ile tutulmuştur.
+
+- **Daily Scrum:** Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Notion linki olarak Readme'de tarafımızdan paylaşılmaktadır:
+
+- **Sprint board update:** Sprint board screenshotları:
+- **Ürün Durumu:** Ekran görüntüleri:
+  <img width="920" alt="SCR-20240801-rbdw" src="https://github.com/user-attachments/assets/41b30dc2-7a75-4e1b-8547-bb8324042f69"><img width="694" alt="SCR-20240801-rbfw" src="https://github.com/user-attachments/assets/bb175ff7-8915-49a1-9877-3e7402cc33d2">
+
+
+
     
 
  
