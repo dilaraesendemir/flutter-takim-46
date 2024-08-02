@@ -125,7 +125,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro'da gözüken mav
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro da gözüken mavi item'lar story'leri temsil etmektedir ve işler (task) görevler başlığı altında story'lerin hemen altında görevler başlığı ile tutulmuştur.
 
-- **Daily Scrum:** Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Notion linki olarak Readme'de tarafımızdan paylaşılmaktadır:
+- **Daily Scrum:** Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Notion linki olarak Readme'de tarafımızdan paylaşılmaktadır:[Sprint 3 Daily Scrum Chats](https://www.notion.so/F-46-Daily-Scrum-47ab7eb048864d10ac59e19a60aba947?pvs=4)
 
 - **Sprint board update:** Sprint board screenshotları: <img width="1007" alt="SCR-20240801-rlxk" src="https://github.com/user-attachments/assets/16ef93b8-b3d2-4e2a-9908-7e72b0508a05">
 
